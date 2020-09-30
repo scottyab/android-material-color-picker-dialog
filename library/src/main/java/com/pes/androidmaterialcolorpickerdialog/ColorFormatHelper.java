@@ -1,6 +1,7 @@
 package com.pes.androidmaterialcolorpickerdialog;
 
-import android.support.annotation.IntRange;
+
+import androidx.annotation.IntRange;
 
 final class ColorFormatHelper {
 
